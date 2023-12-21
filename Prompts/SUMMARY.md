@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Ai Prompts](README.md)
+* [chat gpt hareket](README.md)
