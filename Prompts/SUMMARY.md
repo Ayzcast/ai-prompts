@@ -1,3 +1,4 @@
 # Table of contents
 
-* [chat gpt hareket](README.md)
+* [⛓ Ai İstemleri](README.md)
+* [🎶 AI Müzik İstemleri](ai-muezik-istemleri.md)

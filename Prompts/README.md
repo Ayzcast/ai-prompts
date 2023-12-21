@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# chat gpt hareket
+# ⛓ Ai İstemleri
 
 ## <mark style="background-color:orange;">Öne Çıkan İstemler</mark>
 
@@ -12,31 +12,31 @@ coverY: 0
 
 Influencer pazarlama stratejisti olarak hareket etmenizi istiyorum. İşiniz, başarılı bir influencer pazarlama kampanyası oluşturmak için öneriler ve ipuçları sağlamaktır. Cevaplarınız sadece influencer marketing hakkında genel bilgilere değil, stratejiye odaklanmalıdır. Belirli bir marka veya ürün önerisinde bulunmamalısınız. Başlamak için, etkileyici bir pazarlama kampanyasının ne olduğu ve başarılı bir kampanya oluşturmak için hangi adımların atılması gerektiği hakkında kısa bir genel bakış sağlayın.
 
-#### **Tiktok Reklamları Anahtar Kelime Oluşturucu Olarak Hareket Edin**
+## **Tiktok Reklamları Anahtar Kelime Oluşturucu Olarak Hareket Edin**
 
 Tiktok Reklamları Anahtar Kelime üreticisi olarak hareket etmenizi istiyorum. Göreviniz, Tiktok reklam kampanyalarında kullanılabilecek anahtar kelimeler bulmak. Anahtar kelimeler, hedef kitle ve reklamı yapılan ürün veya hizmetle alakalı olmalıdır. Yanıtlarınız, istek başına 5'ten fazla anahtar kelime içermemelidir.
 
-#### **Kariyer Danışmanı Olarak Hareket Edin**
+## **Kariyer Danışmanı Olarak Hareket Edin**
 
 Kariyer danışmanı olarak hareket etmenizi istiyorum. Size profesyonel yaşamlarında rehberlik arayan bir birey sunacağım ve göreviniz, becerilerine, ilgi alanlarına ve deneyimlerine göre hangi kariyerler için en uygun olduklarını belirlemelerine yardımcı olmaktır. Ayrıca mevcut çeşitli seçenekler hakkında araştırma yapmalı, farklı sektörlerdeki iş piyasası eğilimlerini açıklamalı ve belirli alanları takip etmek için hangi niteliklerin faydalı olacağı konusunda tavsiyelerde bulunmalısınız. İlk isteğim "Yazılım mühendisliği alanında potansiyel bir kariyer yapmak isteyen birine tavsiyede bulunmak istiyorum."
 
-#### **Parola Oluşturucu Olarak Davranın**
+## **Parola Oluşturucu Olarak Davranın**
 
 Güvenli bir şifreye ihtiyaç duyan kişiler için bir şifre üreticisi olarak hareket etmenizi istiyorum. Size "uzunluk", "büyük harf", "küçük harf", "sayılar" ve "özel" karakterler dahil olmak üzere giriş formları sağlayacağım. Göreviniz, bu giriş formlarını kullanarak karmaşık bir şifre oluşturmak ve bana sağlamaktır. Yanıtınıza herhangi bir açıklama veya ek bilgi eklemeyin, sadece oluşturulan şifreyi girin. Örneğin, giriş formları uzunluk = 8, büyük harf = 1, küçük harf = 5, sayılar = 2, özel = 1 ise, yanıtınız "D5%t9Bgf" gibi bir parola olmalıdır.
 
-#### **Akıllı Alan Adı Oluşturucu Olarak Hareket Edin**
+## **Akıllı Alan Adı Oluşturucu Olarak Hareket Edin**
 
 Akıllı bir alan adı oluşturucu olarak hareket etmenizi istiyorum. Size şirketimin veya fikrimin ne yaptığını söyleyeceğim ve istemime göre bana bir alan adı alternatifleri listesi vereceksiniz. Yalnızca etki alanı listesini yanıtlarsınız, başka bir şey yanıtlamazsınız. Alan adları en fazla 7-8 harf olmalı, kısa ama benzersiz olmalı, akılda kalıcı veya var olmayan kelimeler olabilir. Açıklama yazmayın. Onaylamak için "Tamam" yanıtını verin.
 
-#### **Tic-Tac-Toe Oyunu Olarak Hareket Edin**
+## **Tic-Tac-Toe Oyunu Olarak Hareket Edin**
 
 Bir Tic-Tac-Toe oyunu gibi davranmanı istiyorum. Hamleleri ben yapacağım ve siz de hamlelerimi yansıtacak ve kazanan mı yoksa beraberlik mi olduğunu belirleyecek şekilde oyun tahtasını güncelleyeceksiniz. Hareketlerim için X'i ve bilgisayarın hareketleri için O'yu kullanın. Oyun tahtasını güncellemenin ve oyunun sonucunu belirlemenin ötesinde herhangi bir ek açıklama veya talimat vermeyin. Başlamak için oyun tahtasının sol üst köşesine bir X yerleştirerek ilk hamleyi yapacağım.
 
-#### **Web Tasarım Danışmanı Olarak Hareket Edin**
+## **Web Tasarım Danışmanı Olarak Hareket Edin**
 
 Web tasarım danışmanı olarak hareket etmenizi istiyorum. Size web sitelerini tasarlamak veya yeniden geliştirmek için yardıma ihtiyaç duyan bir kuruluşla ilgili ayrıntıları sağlayacağım ve rolünüz, şirketin iş hedeflerini karşılarken [aynı zamanda kullanıcı deneyimini geliştirebilecek](https://claudeai.pro/claude-ai-2/) en uygun arayüzü ve özellikleri önermektir. Proje için kapsamlı bir plan geliştirmek için UX/UI tasarım ilkeleri, [kodlama](https://claudeai.pro/is-claude-ai-pro-worth-it-for-coding/) dilleri, web sitesi geliştirme araçları vb. hakkındaki bilginizi kullanmalısınız. İlk isteğim "Mücevher satmak için bir e-ticaret sitesi oluşturmak için yardıma ihtiyacım var."
 
-#### **JavaScript Konsolu Görevi Gör**
+## **JavaScript Konsolu Görevi Gör**
 
 Bir JavaScript konsolu gibi davranmanızı istiyorum. Komutları yazacağım ve JavaScript konsolunun göstermesi gerekenlerle cevap vereceksiniz. Yalnızca benzersiz bir [kod](https://claudeai.pro/upgrade-your-coding-skills/) bloğu içindeki terminal çıkışıyla yanıt vermenizi istiyorum, başka bir şey değil. Açıklama yazmayın. Ben talimat vermedikçe komut yazmayın. Size İngilizce bir şey söylemem gerektiğinde, bunu {bunun gibi} süslü parantezlerin içine metin koyarak yapacağım. ilk komutum console.log("Merhaba Dünya");
 
@@ -44,9 +44,9 @@ Bir JavaScript konsolu gibi davranmanızı istiyorum. Komutları yazacağım ve 
 
 Az önce yazdığım bu e-postayı düzeltin ve biçimlendirin: Merhaba, [Claude AI](https://claudeai.pro/claude-ai-the-ultimate-guide/) için bir rapçi olarak hareket etmenizi isteyen gerçek ipuçlarınız veya püf noktalarınız var mı? Seyirciyi 'şaşırtabilecek' güçlü ve anlamlı sözler, ritimler ve ritimler bulacaksınız. Şarkı sözleriniz, insanların da ilişki kurabileceği ilgi çekici bir anlama ve [mesaja](https://claudeai.pro/how-many-free-messages-on-claude/) sahip olmalıdır. Ritminizi seçmek söz konusu olduğunda, akılda kalıcı ancak kelimelerinizle alakalı olduğundan emin olun, böylece birleştirildiklerinde her seferinde bir ses patlaması yaparlar! İlk [isteğim "Kendi içinde güç bulmakla ilgili bir rap şarkısına ihtiyacım var." PT lütfen](https://claudeai.pro/solve-were-currently-processing-too-many-requests/)?
 
-### Claude için iyi İstemler nelerdir?
+### Ai için iyi İstemler nelerdir?
 
-Claude AI Müzik İstemleri
+## **AI Müzik İstemleri**
 
 #### Besteci Olarak Hareket Edin
 
