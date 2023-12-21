@@ -1,8 +1,7 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1678995632928-298d05d41671?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxjaGF0JTIwZ3B0fGVufDB8fHx8MTcwMjUyOTk2Mnww&ixlib=rb-4.0.3&q=85
-coverY: 0
----
+<div style="background-image: url('https://images.unsplash.com/photo-1678995632928-298d05d41671?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxjaGF0JTIwZ3B0fGVufDB8fHx8MTcwMjUyOTk2Mnww&ixlib=rb-4.0.3&q=85'); height: 300px; background-size: cover; background-position: center;">
+  <!-- İçerik -->
+</div>
+
 
 # ⛓ Ai İstemleri
 
