@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1525338078858-d762b5e32f2c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxhaXxlbnwwfHx8fDE3MDQ2MDczNTl8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ⛓ Ai İstemleri
 
 ## ⛓ Ai İstemleri
